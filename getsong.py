@@ -3,6 +3,7 @@
 
 """
  Copyright (C) 2006 Xupeng Yun <recordus@gmail.com>
+ Modify by Yukang Chen <moorekang@gmail.com> 2011-6-7
  
  This file is part of getsong. getsong is a tool for downloading mp3 
  automatically, with getsong you can download mp3 in a flash:)
