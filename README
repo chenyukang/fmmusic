@@ -4,4 +4,12 @@ fm_get_music.py: after you enter your Douban username and passwd, it will
 create a file named "songlist.txt", where contains your favorite song list.
 The code is a little ugly, for the html parse process,but it works however.
 
+usage:
+1 change fm_get_music.py, put your Douban username and passwd.
+2 run fm_get_music.py : python fm_get_music.py , it will produce a file "songlist.txt", 
+3 run the script : python getsong.py -x ,will download music from Baidu Music ,according to the song list file.
 
+Notes:
+1 just test on Linux, for Windows there maybe some new problems
+2 if the song title contains language such as Franch, it may not be processed correctly.
+3 getsong.py is written by Xupeng Yun <recordus@gmail.com>, and I added some modification.
