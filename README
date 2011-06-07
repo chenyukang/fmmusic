@@ -2,7 +2,7 @@ this is a Python script for you to get you favorite song list from DoubanFM,
 
 fm_get_music.py: after you enter your Douban username and passwd, it will 
 create a file named "songlist.txt", where contains your favorite song list.
-The code is a little ugly, for the html parse process,but it works however.
+The code is a little ugly, for the html parse process,it works however.
 
 usage:
 1 change fm_get_music.py, put your Douban username and passwd.
